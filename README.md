@@ -1,10 +1,14 @@
 <!--
  * @Date: 2023-07-27 11:59:21
  * @LastEditors: wangyi
- * @LastEditTime: 2023-07-27 12:00:50
+ * @LastEditTime: 2023-07-27 12:07:03
  * @FilePath: /aws-lambda-app/README.md
 -->
 # 使用方法
+
+```bash
+composer require wangyieiz/aws-lambda-app
+```
 
 ```php
 require 'vendor/autoload.php';
