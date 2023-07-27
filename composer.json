@@ -5,6 +5,7 @@
             "Wangyi\\AwsLambdaApp\\": "src/"
         }
     },
+    "license": "MIT",
     "authors": [
         {
             "name": "王易",
