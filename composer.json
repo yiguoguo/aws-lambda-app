@@ -1,0 +1,17 @@
+{
+    "name": "wangyi/aws-lambda-app",
+    "autoload": {
+        "psr-4": {
+            "Wangyi\\AwsLambdaApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "王易",
+            "email": "350990149@qq.com"
+        }
+    ],
+    "require": {
+        "aws/aws-sdk-php": "^3.277"
+    }
+}
