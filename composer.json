@@ -1,5 +1,5 @@
 {
-    "name": "wangyi/aws-lambda-app",
+    "name": "wangyieiz/aws-lambda-app",
     "autoload": {
         "psr-4": {
             "Wangyi\\AwsLambdaApp\\": "src/"
